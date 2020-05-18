@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="279858" started-at="2020-05-12T22:57:54 IST" finished-at="2020-05-12T23:02:33 IST">
+    <groups>
+    </groups>
+    <test name="firsttest" duration-ms="279858" started-at="2020-05-12T22:57:54 IST" finished-at="2020-05-12T23:02:33 IST">
+      <class name="test.HomeTestDataprovider">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="beforeMethod" is-config="true" duration-ms="157947" started-at="2020-05-12T22:57:54 IST" finished-at="2020-05-12T23:00:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="home(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="home" duration-ms="20123" started-at="2020-05-12T23:00:32 IST" data-provider="dp" finished-at="2020-05-12T23:00:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bb]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="afterClass" is-config="true" duration-ms="938" started-at="2020-05-12T23:00:52 IST" finished-at="2020-05-12T23:00:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="beforeMethod" is-config="true" duration-ms="53570" started-at="2020-05-12T23:00:53 IST" finished-at="2020-05-12T23:01:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="home(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="home" duration-ms="22929" started-at="2020-05-12T23:01:46 IST" data-provider="dp" finished-at="2020-05-12T23:02:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jinu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jono]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tvm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="afterClass" is-config="true" duration-ms="877" started-at="2020-05-12T23:02:09 IST" finished-at="2020-05-12T23:02:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="beforeMethod" is-config="true" duration-ms="12032" started-at="2020-05-12T23:02:10 IST" finished-at="2020-05-12T23:02:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="home(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="home" duration-ms="10256" started-at="2020-05-12T23:02:22 IST" data-provider="dp" finished-at="2020-05-12T23:02:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zesa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ktm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.HomeTestDataprovider@26aa12dd]" name="afterClass" is-config="true" duration-ms="892" started-at="2020-05-12T23:02:33 IST" finished-at="2020-05-12T23:02:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.HomeTestDataprovider -->
+    </test> <!-- firsttest -->
+  </suite> <!-- Suite -->
+</testng-results>
