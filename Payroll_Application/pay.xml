@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suit">
+
+<test thread-count="5"  name="firsttest">
+<classes>
+
+<class name="test.WorkerDetailsTest"/>
+</classes>
+
+</test>
+
+</suite>
