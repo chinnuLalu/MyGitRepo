@@ -40,7 +40,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>3.1.0</version>
 				<configuration>
-					<mainClass>ExcelReadPGM.ExcelMain</mainClass>
+					<mainClass>ExcelReadPGM.SampleMain</mainClass>
 				</configuration>
 			</plugin>
 
